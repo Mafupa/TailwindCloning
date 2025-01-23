@@ -4,7 +4,7 @@
 
 @layer components{
 	.card-container-primary{
-		@apply flex flex-col p-[2rem] rounded-[15px] shadow-lg p-[50px];
+		@apply bg-white flex flex-col p-[2rem] rounded-[25px] m-[10px] shadow-lg p-[50px];
 	}
 	.card-img-container-primary{
 		@apply bg-[#0071f8] rounded-full flex items-center justify-center w-[100px] h-[100px];
